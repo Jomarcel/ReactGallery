@@ -3,7 +3,7 @@ import {View, Text, StyleSheet} from 'react-native';
 import ImageDetail from '../Components/ImageDetail'
 
 const ImageScreen = (props) =>{
-    console.log(props.title);
+   
 
 return(
 <View>
