@@ -13,7 +13,6 @@ const [counter, setCounter] = useState(0);
             onPress = {() => {
                 setCounter(counter + 1)
                 console.log(counter)
-
                
             }}
             
